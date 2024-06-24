@@ -19,3 +19,7 @@ GitHub Favorites é um projeto desenvolvido para facilitar a busca e o gerenciam
 
 
 ### :desktop_computer: Previa
+
+
+https://github.com/viniciusxsousa/github-favorites/assets/81489425/b15a1070-8313-44ef-86cf-b4169fba67b7
+
