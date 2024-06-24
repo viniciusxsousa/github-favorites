@@ -12,7 +12,7 @@ GitHub Favorites é um projeto desenvolvido para facilitar a busca e o gerenciam
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-### :atom_symbol: Funcionalidades
+### :arrow_forward: Funcionalidades
 
 1. Adicionar um usuário do github na lista.
 2. Remover um usuário da lista.
